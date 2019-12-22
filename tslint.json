@@ -62,6 +62,7 @@
     ],
     "trailing-comma": false,
     "no-output-on-prefix": true,
+    "no-trailing-whitespace": false,
     "use-input-property-decorator": true,
     "use-output-property-decorator": true,
     "use-host-property-decorator": true,
@@ -69,7 +70,7 @@
     "no-output-rename": true,
     "use-life-cycle-interface": true,
     "use-pipe-transform-interface": true,
-    "component-class-suffix": true,
-    "directive-class-suffix": true
+    "component-class-suffix": false,
+    "directive-class-suffix": true,
   }
 }
